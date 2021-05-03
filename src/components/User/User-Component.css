@@ -1,0 +1,33 @@
+:root{
+    --color1: #202C39;
+    --color2: #F2D492;
+    --color3: #F29559;
+  }
+
+body{
+    background-color: #E5E5E5;
+}
+.head-title{
+    font-weight: 700;
+    color: var(--color1);
+}
+.logout{
+    color: white;
+    background-color: var(--color3);
+    border-radius: solid var(--color3);
+}
+.logout:hover{
+    color: var(--color3);
+    background-color: white;
+}
+.addNewAddress{
+    margin-top: 2rem;
+    color: white;
+    background-color: var(--color1);
+    border-radius: 0rem;
+}
+.addNewAddress:hover{
+    color: var(--color1);
+    background-color: white;
+    border-color: var(--color1);
+}

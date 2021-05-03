@@ -1,0 +1,108 @@
+.MuiContainer-root {
+  margin-left: 0% !important;
+  margin-right: 0% !important;
+}
+.IconC {
+  color: #f29559;
+  font-size: 1em !important;
+  /* padding-left: 5% !important;
+    padding-top: 1% !important; */
+}
+.IconShipping {
+  color: #f29559;
+  font-size: 1.5em !important;
+}
+.MuiTypography-h3 {
+  margin-bottom: 2% !important;
+  font-weight: bold !important;
+}
+.MuiDataGrid-window {
+  background-color: #e5e5e5 !important;
+}
+.MuiDataGrid-footer {
+  background-color: #202c39 !important;
+}
+.MuiDataGrid-root .MuiDataGrid-colCellWrapper {
+  background-color: #202c39 !important;
+  color: #f29559 !important;
+}
+.MuiIconButton-root {
+  color: #f29559 !important;
+}
+.MuiDataGrid-root .MuiDataGrid-columnSeparator {
+  color: #f29559 !important;
+}
+.MuiTypography-body2 {
+  color: #f29559 !important;
+}
+.footerT {
+  display: flex;
+  justify-content: flex-start;
+  background-color: #ffffff;
+  align-items: center;
+}
+.feeBox {
+  color: white;
+  background-color: #f29559;
+  padding: 1%;
+}
+.FeeText {
+  padding: 1%;
+  width: 15vw;
+}
+.FeePrice {
+  color: #f29559;
+  padding: 1%;
+}
+.Receive {
+  color: #202c39;
+}
+.footerAll {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-left: 1%;
+}
+.footerR {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #ffffff;
+}
+.HeaderCart {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #ffffff;
+}
+.FeeText2 {
+  padding: 1%;
+  width: 20vw;
+  font-size: 1.3em;
+}
+.Totalp {
+  color: #f29559;
+  padding: 0.5%;
+  font-size: 2em;
+  font-weight: bold;
+}
+.C-button {
+  color: #f29559;
+  padding: 2%;
+  width: 9vw;
+}
+.footerSection {
+  height: 4vw;
+  background-color: #202c39;
+}
+.MuiDataGrid-root .MuiDataGrid-footer {
+  border : 1px transparent !important;
+}
+.MuiDataGrid-root {
+  border : 1px transparent !important;
+}
+.footerR{
+  display: flex !important;
+}
+.footerAll{
+  display: flex !important;
+}

@@ -1,0 +1,72 @@
+:root{
+    --color1: #202C39;
+    --color2: #F2D492;
+    --color3: #F29559;
+}
+
+.Button1{
+    background-color: var(--color3);
+    color: white;
+    border: solid var(--color3);
+    padding: 0.5rem;
+    border-radius: 0;
+}
+.Button1:hover{
+    background-color: white;
+    color: var(--color3);
+}
+.Button2{
+    background-color: white;
+    color: var(--color3);
+    border: solid var(--color3);
+    padding: 0.5rem;
+    border-radius: 0;
+}
+.Button2:hover{
+    background-color: var(--color3);
+    color: white;
+}
+
+.Product-sell{
+    display: flex;
+    height: 80vh;
+    padding-top: 2rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+.head-name{
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+.tag-product{
+    background-color: #F2D492;
+    color: #F29559;
+    padding: 0.2rem;
+    font-size: smaller;
+}
+.price-product{
+    color: #F29559;
+    font-weight: 600;
+    font-size: xx-large;
+}
+.img-product{
+    /*height: 28rem;*/
+    /*width: fit-content;*/
+    height: 28rem;
+    width: 28rem;
+    align-self: center;
+}
+
+.Product-Detail{
+    background-color: var(--color1);
+    padding: 2rem;
+}
+.Product-Speci{
+    background-color: white;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+.Detail-box{
+    display: flex;
+    padding: 1rem;
+}

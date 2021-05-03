@@ -1,0 +1,32 @@
+/* first page */
+.firstSection-shop {
+    height: calc(100vh - 4em);
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.content-shop{
+    font-size: 1.5rem;
+    color: white;
+}
+.image-head-shop{
+    width: 34rem;
+}
+.topic-shop{
+    font-weight:700;
+    color: #202C39;
+}
+.topic-shop.mid{
+    color: #F29559;
+}
+.carousel-head-shop{
+    background-color: transparent;
+}
+.set-pic{
+    display: flex;
+}
+.set-pic>*{
+    width: 4rem;
+    padding-right: 0.5rem;
+}

@@ -1,0 +1,207 @@
+.MuiContainer-root{
+    margin-left: 0% !important;
+    margin-right: 0% !important;
+}
+.IconC{
+    color: #F29559;
+    font-size: 1em !important;
+    /* padding-left: 5% !important;
+    padding-top: 1% !important; */
+    
+}
+.CheckH{
+    color: "#F29559",
+  }
+.IconShipping{
+    color: #F29559;
+    font-size: 1.5em !important;
+    
+}
+.MuiTypography-h3 {
+    margin-bottom: 2% !important;
+    font-weight: bold !important;
+}
+.MuiDataGrid-window {
+    background-color: #E5E5E5 !important;
+}
+.MuiDataGrid-footer {
+    background-color: #202C39 !important;
+}
+.MuiDataGrid-root .MuiDataGrid-colCellWrapper{
+    background-color: #202C39 !important;
+    color: #F29559 !important;
+}
+.MuiIconButton-root {
+    color: #F29559 !important;
+}
+.MuiDataGrid-root .MuiDataGrid-columnSeparator {
+    color: #F29559 !important;
+}
+.MuiTypography-body2 {
+    color: #F29559 !important;
+}
+.footerPayment{
+    display:flex;
+    justify-content: space-between;
+    background-color: #202C39;
+    color:#F29559;
+    align-items: center;
+}
+.Procode{
+    color:white;
+    padding: 1%;
+}
+.Total-S{
+    padding: 1%;
+    width: 15vw;
+    font-size: 1.5vw;
+    justify-content: flex-start;
+    font-weight: bold;
+}
+.Total-E{
+    padding: 1%;
+    width: 15vw;
+    font-size: 120%;
+    justify-content: flex-end;
+}
+.FeeText-F{
+    padding: 1%;
+    width: 25vw;
+}
+.FeePrice{
+    color: #F29559;
+    padding: 1%;
+}
+.Receive{
+    color: #202C39;
+}
+.footerAllCheck{
+    display:flex;
+    justify-content: space-between;
+    background-color: #202C39;
+    color:#F29559;
+    height: 3vw;
+    align-items: center;
+    padding-left: 1%;
+}
+.Pay-Des{
+    display:block;
+    width: 30vw;
+    font-size: 1vw;
+}
+.Pay-Des2{
+    display:block;
+    width: 30vw;
+    font-size: 1vw;
+}
+.Pay-Des3{
+    display:block;
+    width: 30vw;
+    color:#F29559;
+    font-weight: bold;
+    font-size: 2vw;
+}
+.footerAllD{
+    display:flex;
+    justify-content: space-between;
+    background-color: #E5E5E5;
+    align-items: center;
+    height: 8vw;
+    padding-left: 5%;
+}
+.lineCross{
+    background-color: #C4C4C4;
+    height: 3px;
+    
+}
+.AddressD{
+    display:flex;
+    justify-content: flex-start;
+    background-color: #E5E5E5;
+    align-items: center;
+}
+.HeaderCart{
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #ffffff;
+    padding-left: 1%;
+    
+}
+.FeeText2{
+    padding: 1%;
+    font-size: 1.3em;
+}
+.Totalshipping{
+    color: #F29559;
+
+}
+.Totalp{
+    color: #F29559;
+    padding: 0.5%;
+    font-size: 2em;
+    font-weight: bold;
+}
+.Pro-button{
+    color: #F29559;
+    padding: 2%;
+    width: 14vw;
+}
+.footerSection{
+    width: 100vw;
+    height: 4vw;
+    background-color: #202C39;
+}
+.Payment-button{
+    color: #F29559;
+    padding: 2%;
+    width: 9vw;
+}
+.footerAllR{
+    display:flex;
+    justify-content: flex-end;
+    color:#202C39;
+    align-items: center;
+    padding-right: 1%;
+    
+}
+.HeaderDetail{
+    display:flex;
+    align-items: center;
+    padding-left: 1%;
+    height: vw;
+}
+.NamePays{
+    color: #F29559;
+    font-size: 1.3em;
+    padding-left: 1%;
+}
+.IconPay{
+    color: #F29559;
+    font-size: 1.3em;
+    padding-left: 1%;
+}
+.NameAddsBox{
+    color: #F29559;
+    font-size: 1.3em;
+}
+.Payment-F{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.footerPayment-F{
+    display: flex;
+    background-color: #E5E5E5;
+    padding-left: 5%;
+    flex-direction: column;
+    padding-top: 2%;
+}
+.Pay-form{
+    width: 15vw;
+}
+.Payment-B{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 3%;
+}
